@@ -86,7 +86,7 @@ const mallikarjuna = {
 <tr>
 <td width="50%">
 
-### 🕉️ [SriRudra](https://github.com/Malli4947/Srirudra)
+### 🕉️ SriRudra
 Full-stack spiritual e-commerce platform — Angular web app + React Native mobile app, calendar-based pooja bookings, secure payments, optimized for festival-season traffic.
 
 `Angular` `React Native` `Node.js` `Express` `MongoDB` `Firebase` `Razorpay`
@@ -104,7 +104,7 @@ Large-scale service marketplace connecting businesses, OEMs, service providers &
 <tr>
 <td width="50%">
 
-### 🍷 [Gobooze](https://github.com/Malli4947/Gobooze_User)
+### 🍷 Gobooze
 On-demand delivery platform with a 400+ product catalog, secure checkout, real-time order tracking, and FCM-powered live notifications for high-throughput peak hours.
 
 `React Native` `Node.js` `Firebase Cloud Messaging`
@@ -112,10 +112,10 @@ On-demand delivery platform with a 400+ product catalog, secure checkout, real-t
 </td>
 <td width="50%">
 
-### 🌉 [Bridge App](https://github.com/Malli4947/bridge-app-cloud)
-Cloud-connected cross-platform application built with a modern TypeScript stack.
+### 💼 [CRM Sales Management](https://github.com/Malli4947/CRM-Sales-Management-System)
+Full-stack CRM (MERN) covering the complete sales pipeline — lead capture, qualification, deals, and close — with role-based access, real-time notifications via Socket.IO, and an analytics dashboard.
 
-`TypeScript` `React Native`
+`React` `Node.js` `MongoDB` `Socket.IO`
 
 </td>
 </tr>
