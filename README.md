@@ -89,11 +89,6 @@ At **CodeFacts IT Solutions Pvt Ltd** (Hyderabad), I've engineered and shipped *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Malli4947&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malli4947's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malli4947&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malli4947&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
